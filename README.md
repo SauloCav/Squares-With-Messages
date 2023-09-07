@@ -9,7 +9,7 @@ The app utilizes a component called `Square` that accepts two properties:
 - `message`: A string representing the message displayed in the center of the square.
 - `color`: A string that sets the background color of the square.
 
-- ## Prints
+## Prints
 <p align="center">
   <img src="img/01.jpg" width="240" />
   <img src="img/02.jpg" width="240" /> 
