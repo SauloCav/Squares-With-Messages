@@ -9,6 +9,13 @@ The app utilizes a component called `Square` that accepts two properties:
 - `message`: A string representing the message displayed in the center of the square.
 - `color`: A string that sets the background color of the square.
 
+- ## Prints
+<p align="center">
+  <img src="img/01.jpg" width="240" />
+  <img src="img/02.jpg" width="240" /> 
+  <img src="img/03.jpg" width="240" />
+</p>
+
 ## Prerequisites
 
 Before getting started, you should have the React Native development environment set up on your machine. You can follow the [official React Native environment setup guide](https://reactnative.dev/docs/environment-setup) to do this.
