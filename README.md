@@ -28,13 +28,7 @@ Before getting started, you should have the React Native development environment
    git clone https://github.com/SauloCav/Squares-With-Messages-React-Native/tree/main
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd react-native-squares-app
-   ```
-
-3. Install the dependencies using npm or yarn:
+2. Install the dependencies using npm or yarn:
 
    With npm:
 
